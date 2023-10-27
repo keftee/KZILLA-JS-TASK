@@ -1,4 +1,4 @@
-const url = "https://catfact.ninja/facty";
+const url = "https://catfact.ninja/fact";
 async function test() {
     try {
         const response = await fetch(url);
